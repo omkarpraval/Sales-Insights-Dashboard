@@ -4,19 +4,6 @@
 
 ---
 
-## 👥 Team
-
-| Name | Roll No. | SAP-ID |
-|------|----------|--------|
-| Maitri Doshi | A066 | 60017240020 |
-| Omkar Raval | A064 | 60017240010 |
-
-**Department:** Artificial Intelligence & Machine Learning  
-**Submission Date:** 17/04/2026  
-**Guide:** Prof. Ragini Mishra
-
----
-
 ## 📌 Problem Statement
 
 Traditional analysis of large sales datasets is often static, slow, and difficult for decision-makers to interpret quickly. This project develops an interactive Sales Intelligence Dashboard using MongoDB as the data source and Python (Dash + Plotly) for analytics and visualization.
